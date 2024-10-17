@@ -3,4 +3,4 @@
 A new Flutter project.
 
 ## Output
-![output](Assets\output.png)
+![output](Assets/output.png)
